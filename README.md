@@ -12,10 +12,9 @@ I'm a developer passionate about MCBE ScriptAPI and Discord Bot development.
 
 ## Connect with me
 
-- [Discord](https://discord.com/users/962670040795201557)
-- ![GitHub followers](https://img.shields.io/github/followers/hr951?label=Follow&style=social)
-- ![Twitter Follow](https://img.shields.io/twitter/follow/hi_ro951?style=social)
-
+- <a href="https://discord.com/users/962670040795201557"><img src="https://img.shields.io/badge/-@hi_ro951-7289DA.svg?logo=discord&style=social"></a>
+- <a href="https://github.com/hr951"><img src="https://img.shields.io/github/followers/hr951?label=Follow&style=social"></a>
+- <a href="https://x.com/hi_ro951"><img src="https://img.shields.io/twitter/follow/hi_ro951?style=social"></a>
 
 <p align="left">
   <picture>
