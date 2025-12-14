@@ -1,4 +1,18 @@
-## Profile
+# Hello, I'm hr951!
+
+I'm a developer passionate about MCBE ScriptAPI and Discord Bot development.
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: Node.js
+- **Tools**: Git, Docker, VS Code
+
+## Connect with me
+
+- [Discord](https://www.linkedin.com/in/username/)
+- [Twitter](https://twitter.com/hi_ro951)
+- [Personal Website](https://hr951.github.io)
 
 
 <p align="left">
