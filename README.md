@@ -3,16 +3,18 @@
 I'm a developer passionate about MCBE ScriptAPI and Discord Bot development.
 
 ## Skills
-
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: Node.js
-- **Tools**: Git, Docker, VS Code
+- **Languages**<br>
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=social">, <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=social">, <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=social">, <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=social"><br>
+- **Frameworks**<br>
+<img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=social"><br>
+- **Tools**<br>
+<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=social">, <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=social">, <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000.svg?logo=VisualStudioCode&style=social">
 
 ## Connect with me
 
-- [Discord](https://www.linkedin.com/in/username/)
-- [Twitter](https://twitter.com/hi_ro951)
-- [Personal Website](https://hr951.github.io)
+- [Discord](https://discord.com/users/962670040795201557)
+- ![GitHub followers](https://img.shields.io/github/followers/hr951?label=Follow&style=social)
+- ![Twitter Follow](https://img.shields.io/twitter/follow/hi_ro951?style=social)
 
 
 <p align="left">
